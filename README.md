@@ -20,7 +20,7 @@ As a SOC analyst, this project helped me understand **real-time monitoring**, **
 
 ---
 
-## 🧰 Tools and Technologies
+## 🧰 Tools Used
 | Tool | Purpose |
 |------|----------|
 | **Wazuh Manager** | Collects and analyzes security events |
@@ -33,9 +33,9 @@ As a SOC analyst, this project helped me understand **real-time monitoring**, **
 
 ## 🏗️ Lab Architecture
 
+   
 
 
-v
 
 
 
